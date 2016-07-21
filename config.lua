@@ -1,9 +1,9 @@
 return {
 
 	-- Your authorization token from the botfather.
-	bot_api_key = '',
+	bot_api_key = '136141698',
 	-- Your Telegram ID.
-	admin = ,
+	admin = '136141698',
 	-- about the bot
 	text = [[
 	<text hear>

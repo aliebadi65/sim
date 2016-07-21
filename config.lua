@@ -1,7 +1,7 @@
 return {
 
 	-- Your authorization token from the botfather.
-	bot_api_key = '136141698',
+	bot_api_key = '205364767:AAFaOsSExyyDxJ93Lr8bxZZy1Ro-UVD5fPw',
 	-- Your Telegram ID.
 	admin = '136141698',
 	-- about the bot
